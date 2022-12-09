@@ -1,0 +1,18 @@
+body{
+    color: aqua;
+}
+p{
+    color: blueviolet;
+}
+#par{
+    color: black;
+}
+#p2{
+    border: 1px solid black;
+}
+strong{
+    border: 2px solid black;
+}
+#cc{
+    color: rgb(22, 7, 35);
+       }

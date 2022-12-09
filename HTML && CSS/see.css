@@ -1,0 +1,58 @@
+body{
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+strong{
+    border-color: 1px rgb(36, 229, 216);
+}
+div{
+    background-color: rgb(157, 198, 21);
+    font-weight: bold;
+}
+#span{
+    color: indianred;
+}
+#p00{
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
+#p0{
+    font-size: 30px;
+    font-weight: 400;
+    font-style: oblique;
+}
+
+.a{
+    color: #f0f; /*ff00ff*/
+}
+#a{
+    color: rgb(001, 33, 000);  /*00FFFF*/
+    opacity: 0.8;
+}
+#rgb{
+    color: rgb(255,000,111); /*en base decimale*/
+}
+.opp{
+    color: rgba(100, 33, 000,0.7);  /*00FFFF*/
+    font-size: 22px;
+}
+#tr{
+    text-align: center;
+    text-transform: uppercase; /*mètre en majuscule*/
+    text-decoration: underline; /*souligne*/
+    text-shadow: 0px 4px 3px red;/*deplacement horiz ,vertical,largeueur,couleur*/
+    
+}
+#te{
+    text-align: right; /*par defaut à gauche*/
+    text-transform: lowercase; /*en minuscule*/
+    text-decoration: line-through;/*barer le text*/
+    text-shadow: -10px -3px 4px #0ff;
+}
+#tt{
+    text-transform: capitalize; /*première lettre en maj*/
+    text-decoration: overline; /*souligne au desus*/
+    text-shadow: 30px 4px 3px rgb(12, 2, 2)
+
+}
