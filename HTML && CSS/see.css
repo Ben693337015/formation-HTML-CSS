@@ -56,3 +56,26 @@ div{
     text-shadow: 30px 4px 3px rgb(12, 2, 2)
 
 }
+.bo{
+    font-family: sans-serif;
+
+}
+#lg{
+    line-height: 20px; /*gestion de saut pour <br>*/
+    letter-spacing: 3px; /*espace entre les lettres*/
+    word-spacing: 2px;  /*espace entre les mots*/
+
+}
+#li{
+    line-height: 50px;
+    letter-spacing: -30px;
+    word-spacing: 20px;
+    text-align: right;
+}
+.bb{
+    background-color: rgb(131, 21, 21);
+    width: 600px; /*la largeur*/
+    padding: 20px; /*marge interieur*/
+    border: 20px solid #000; /* la bordure*/
+    margin: 50px; /*marge exterieur*/
+}
